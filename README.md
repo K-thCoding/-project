@@ -48,15 +48,10 @@
 5. 결론 및 성능평가 (테스트셋, 실제 장 적용)
 6. 데모 제작
    
-## 실행 방법
+## 프로젝트 결과
 
-### 1. git clone 을 통해 repository를 local directory 로 복사
+### 1. LSTM모델
 
-### 2. client 폴더와 server 폴더에서 각각 npm install 을 통해 module 설치
+### 2. 이미지 학습 CNN모델
 
-### 3. Backend의 DB 연동을 위한 `.env` 파일 설정 추가
-```
-MONGO_URI=< 몽고DB URI >
-PORT=5001
-```
-### 4. client 와 server 폴더를 각각 npm run start 로 실행
+## 프로젝트 회고
