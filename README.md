@@ -28,10 +28,10 @@
 
 ## 기술 스택
 > DS
->> python,
+>> python, Tensorflow, Pytorch
 
 > DE
->> ReactJS
+>> ReactJS, Hadoop, spark, node, PostgerSQL, mongoDB
 
 ## 프로젝트 진행
 1. 프로젝트 범위 결정: 사용 데이터셋 범위 결정, 접근 방법 결정 등
