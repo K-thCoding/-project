@@ -42,6 +42,7 @@
 6. 데모 제작
 ## DS프로젝트 세부 과정
 ### 데이터셋 분석 
+- 하우투스탁 - 주식 기본 공부(https://howtostock.kiwoom.com/lecture/contents/1/1/0)
 - 도메인 지식을 학습
 ### EDA 
 - 상위TOP 거래량을 보이는 종목 5개~10개를 지정 데이터 범위 결정
